@@ -1,1 +1,2 @@
-This file needs merge conflicts. 
+This file needs merge conflicts.
+Here is merge conflict from my local system.
