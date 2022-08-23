@@ -1,2 +1,4 @@
 This file needs merge conflicts.
 Here is merge conflict from my local system.
+--Keeping both changes---
+This file needs merge conflicts. 
